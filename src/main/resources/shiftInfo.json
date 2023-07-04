@@ -1,0 +1,265 @@
+[
+  {
+    "score": 0,
+    "shiftType": "MORNING",
+    "subsidy": 0,
+    "workHours": 8,
+    "workshiftId": 1,
+    "workshiftName": "早8",
+    "workshiftTimeList": [
+      {
+        "endTime": "11:00:00",
+        "startTime": "08:00:00"
+      },
+      {
+        "endTime": "17:00:00",
+        "startTime": "12:00:00"
+      }
+    ]
+  },
+  {
+    "dayOfWeek": "MONDAY",
+    "score": 0,
+    "shiftType": "MORNING",
+    "subsidy": 0,
+    "workHours": 8,
+    "workshiftId": 2,
+    "workshiftName": "早1",
+    "workshiftTimeList": [
+      {
+        "endTime": "12:00:00",
+        "startTime": "09:00:00"
+      },
+      {
+        "endTime": "18:00:00",
+        "startTime": "13:00:00"
+      }
+    ]
+
+  },
+  {
+    "score": 0,
+    "shiftType": "MORNING",
+    "subsidy": 0,
+    "workHours": 8,
+    "workshiftId": 3,
+    "workshiftName": "早2",
+    "workshiftTimeList": [
+      {
+        "endTime": "13:00:00",
+        "startTime": "09:00:00"
+      },
+      {
+        "endTime": "18:00:00",
+        "startTime": "14:00:00"
+      }
+    ]
+
+  },
+  {
+    "score": 0,
+    "shiftType": "LUNCH",
+    "subsidy": 0,
+    "workHours": 8,
+    "workshiftId": 4,
+    "workshiftName": "中12",
+    "workshiftTimeList": [
+      {
+        "endTime": "18:00:00",
+        "startTime": "12:00:00"
+      },
+      {
+        "endTime": "21:00:00",
+        "startTime": "19:00:00"
+      }
+    ]
+
+  },
+  {
+    "score": 0,
+    "shiftType": "LUNCH",
+    "subsidy": 0,
+    "workHours": 8,
+    "workshiftId": 5,
+    "workshiftName": "中13",
+    "workshiftTimeList": [
+      {
+        "endTime": "22:00:00",
+        "startTime": "18:00:00"
+      },
+      {
+        "endTime": "17:00:00",
+        "startTime": "13:00:00"
+      }
+    ]
+
+  },
+  {
+    "score": 0,
+    "shiftType": "NIGHT",
+    "subsidy": 80,
+    "workHours": 8,
+    "workshiftId": 6,
+    "workshiftName": "晚14",
+    "workshiftTimeList": [
+      {
+        "endTime": "18:00:00",
+        "startTime": "14:00:00"
+      },
+      {
+        "endTime": "23:00:00",
+        "startTime": "19:00:00"
+      }
+    ]
+
+  },
+  {
+    "score": 0,
+    "shiftType": "NIGHT",
+    "subsidy": 80,
+    "workHours": 8,
+    "workshiftId": 7,
+    "workshiftName": "晚1",
+    "workshiftTimeList": [
+      {
+        "endTime": "17:00:00",
+        "startTime": "15:00:00"
+      },
+      {
+        "endTime": "00:00:00",
+        "startTime": "18:00:00"
+      }
+    ]
+
+  },
+  {
+
+    "score": 0,
+    "shiftType": "NIGHT",
+    "subsidy": 80,
+    "workHours": 8,
+    "workshiftId": 8,
+    "workshiftName": "晚2",
+    "workshiftTimeList": [
+      {
+        "endTime": "18:00:00",
+        "startTime": "15:00:00"
+      },
+      {
+        "endTime": "00:00:00",
+        "startTime": "19:00:00"
+      }
+    ]
+
+  },
+  {
+
+    "score": 0,
+    "shiftType": "NIGHT",
+    "subsidy": 80,
+    "workHours": 8,
+    "workshiftId": 9,
+    "workshiftName": "晚3",
+    "workshiftTimeList": [
+      {
+        "endTime": "00:00:00",
+        "startTime": "20:00:00"
+      },
+      {
+        "endTime": "19:00:00",
+        "startTime": "15:00:00"
+      }
+    ]
+
+  },
+  {
+    "score": 0,
+    "shiftType": "TIANDI",
+    "subsidy": 80,
+    "workHours": 8,
+    "workshiftId": 10,
+    "workshiftName": "天1",
+    "workshiftTimeList": [
+      {
+        "endTime": "14:00:00",
+        "startTime": "10:00:00"
+      },
+      {
+        "endTime": "22:00:00",
+        "startTime": "18:00:00"
+      }
+    ]
+
+  },
+  {
+    "score": 0,
+    "shiftType": "TIANDI",
+    "subsidy": 80,
+    "workHours": 8,
+    "workshiftId": 11,
+    "workshiftName": "天2",
+    "workshiftTimeList": [
+      {
+        "endTime": "14:00:00",
+        "startTime": "11:00:00"
+      },
+      {
+        "endTime": "23:00:00",
+        "startTime": "18:00:00"
+      }
+    ]
+
+  },
+  {
+    "score": 0,
+    "shiftType": "TIANDI",
+    "subsidy": 80,
+    "workHours": 8,
+    "workshiftId": 12,
+    "workshiftName": "天3",
+    "workshiftTimeList": [
+      {
+        "endTime": "13:00:00",
+        "startTime": "11:00:00"
+      },
+      {
+        "endTime": "00:00:00",
+        "startTime": "18:00:00"
+      }
+    ]
+
+  },
+  {
+    "score": 0,
+    "shiftType": "TIANDI",
+    "subsidy": 80,
+    "workHours": 8,
+    "workshiftId": 13,
+    "workshiftName": "天4",
+    "workshiftTimeList": [
+      {
+        "endTime": "15:00:00",
+        "startTime": "13:00:00"
+      },
+      {
+        "endTime": "00:00:00",
+        "startTime": "18:00:00"
+      }
+    ]
+
+  },
+  {
+    "score": 0,
+    "shiftType": "REST",
+    "subsidy": 0,
+    "workHours": 0,
+    "workshiftId": 14,
+    "workshiftName": "休息",
+    "workshiftTimeList": [
+      {
+        "endTime": "00:00:00",
+        "startTime": "00:00:00"
+      }
+    ]
+  }
+]

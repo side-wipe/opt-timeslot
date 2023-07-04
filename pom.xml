@@ -39,6 +39,23 @@
             <artifactId>optaplanner-spring-boot-starter</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.20</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>5.8.5</version>
+        </dependency>
+        <dependency>
+            <groupId>org.optaplanner</groupId>
+            <artifactId>optaplanner-test</artifactId>
+            <version>8.3.0.Final</version>
+            <scope>test</scope>
+        </dependency>
+
     </dependencies>
 
     <dependencyManagement>
@@ -48,6 +65,11 @@
                 <artifactId>optaplanner-spring-boot-starter</artifactId>
                 <version>8.3.0.Final</version>
             </dependency>
+            <!--            <dependency>-->
+            <!--                <groupId>org.optaplanner</groupId>-->
+            <!--                <artifactId>optaplanner-core</artifactId>-->
+            <!--                <version>${version.org.optaplanner}</version>-->
+            <!--            </dependency>-->
         </dependencies>
     </dependencyManagement>
 

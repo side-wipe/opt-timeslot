@@ -1,0 +1,562 @@
+[
+{
+"date": "20230529",
+"dateHour": "2023052908",
+"touchCnt": 11
+},
+{
+"date": "20230529",
+"dateHour": "2023052909",
+"touchCnt": 18
+},
+{
+"date": "20230529",
+"dateHour": "2023052910",
+"touchCnt": 21
+},
+{
+"date": "20230529",
+"dateHour": "2023052911",
+"touchCnt": 20
+},
+{
+"date": "20230529",
+"dateHour": "2023052912",
+"touchCnt": 20
+},
+{
+"date": "20230529",
+"dateHour": "2023052913",
+"touchCnt": 18
+},
+{
+"date": "20230529",
+"dateHour": "2023052914",
+"touchCnt": 21
+},
+{
+"date": "20230529",
+"dateHour": "2023052915",
+"touchCnt": 22
+},
+{
+"date": "20230529",
+"dateHour": "2023052916",
+"touchCnt": 21
+},
+{
+"date": "20230529",
+"dateHour": "2023052917",
+"touchCnt": 24
+},
+{
+"date": "20230529",
+"dateHour": "2023052918",
+"touchCnt": 24
+},
+{
+"date": "20230529",
+"dateHour": "2023052919",
+"touchCnt": 28
+},
+{
+"date": "20230529",
+"dateHour": "2023052920",
+"touchCnt": 24
+},
+{
+"date": "20230529",
+"dateHour": "2023052921",
+"touchCnt": 27
+},
+{
+"date": "20230529",
+"dateHour": "2023052922",
+"touchCnt": 27
+},
+{
+"date": "20230529",
+"dateHour": "2023052923",
+"touchCnt": 22
+},
+{
+"date": "20230530",
+"dateHour": "2023053008",
+"touchCnt": 10
+},
+{
+"date": "20230530",
+"dateHour": "2023053009",
+"touchCnt": 19
+},
+{
+"date": "20230530",
+"dateHour": "2023053010",
+"touchCnt": 19
+},
+{
+"date": "20230530",
+"dateHour": "2023053011",
+"touchCnt": 21
+},
+{
+"date": "20230530",
+"dateHour": "2023053012",
+"touchCnt": 17
+},
+{
+"date": "20230530",
+"dateHour": "2023053013",
+"touchCnt": 17
+},
+{
+"date": "20230530",
+"dateHour": "2023053014",
+"touchCnt": 21
+},
+{
+"date": "20230530",
+"dateHour": "2023053015",
+"touchCnt": 22
+},
+{
+"date": "20230530",
+"dateHour": "2023053016",
+"touchCnt": 23
+},
+{
+"date": "20230530",
+"dateHour": "2023053017",
+"touchCnt": 23
+},
+{
+"date": "20230530",
+"dateHour": "2023053018",
+"touchCnt": 25
+},
+{
+"date": "20230530",
+"dateHour": "2023053019",
+"touchCnt": 26
+},
+{
+"date": "20230530",
+"dateHour": "2023053020",
+"touchCnt": 25
+},
+{
+"date": "20230530",
+"dateHour": "2023053021",
+"touchCnt": 30
+},
+{
+"date": "20230530",
+"dateHour": "2023053022",
+"touchCnt": 28
+},
+{
+"date": "20230530",
+"dateHour": "2023053023",
+"touchCnt": 22
+},
+{
+"date": "20230531",
+"dateHour": "2023053108",
+"touchCnt": 11
+},
+{
+"date": "20230531",
+"dateHour": "2023053109",
+"touchCnt": 19
+},
+{
+"date": "20230531",
+"dateHour": "2023053110",
+"touchCnt": 18
+},
+{
+"date": "20230531",
+"dateHour": "2023053111",
+"touchCnt": 19
+},
+{
+"date": "20230531",
+"dateHour": "2023053112",
+"touchCnt": 21
+},
+{
+"date": "20230531",
+"dateHour": "2023053113",
+"touchCnt": 18
+},
+{
+"date": "20230531",
+"dateHour": "2023053114",
+"touchCnt": 22
+},
+{
+"date": "20230531",
+"dateHour": "2023053115",
+"touchCnt": 24
+},
+{
+"date": "20230531",
+"dateHour": "2023053116",
+"touchCnt": 19
+},
+{
+"date": "20230531",
+"dateHour": "2023053117",
+"touchCnt": 26
+},
+{
+"date": "20230531",
+"dateHour": "2023053118",
+"touchCnt": 25
+},
+{
+"date": "20230531",
+"dateHour": "2023053119",
+"touchCnt": 24
+},
+{
+"date": "20230531",
+"dateHour": "2023053120",
+"touchCnt": 27
+},
+{
+"date": "20230531",
+"dateHour": "2023053121",
+"touchCnt": 29
+},
+{
+"date": "20230531",
+"dateHour": "2023053122",
+"touchCnt": 31
+},
+{
+"date": "20230531",
+"dateHour": "2023053123",
+"touchCnt": 23
+},
+{
+"date": "20230601",
+"dateHour": "2023060108",
+"touchCnt": 10
+},
+{
+"date": "20230601",
+"dateHour": "2023060109",
+"touchCnt": 22
+},
+{
+"date": "20230601",
+"dateHour": "2023060110",
+"touchCnt": 23
+},
+{
+"date": "20230601",
+"dateHour": "2023060111",
+"touchCnt": 21
+},
+{
+"date": "20230601",
+"dateHour": "2023060112",
+"touchCnt": 22
+},
+{
+"date": "20230601",
+"dateHour": "2023060113",
+"touchCnt": 17
+},
+{
+"date": "20230601",
+"dateHour": "2023060114",
+"touchCnt": 19
+},
+{
+"date": "20230601",
+"dateHour": "2023060115",
+"touchCnt": 23
+},
+{
+"date": "20230601",
+"dateHour": "2023060116",
+"touchCnt": 23
+},
+{
+"date": "20230601",
+"dateHour": "2023060117",
+"touchCnt": 23
+},
+{
+"date": "20230601",
+"dateHour": "2023060118",
+"touchCnt": 28
+},
+{
+"date": "20230601",
+"dateHour": "2023060119",
+"touchCnt": 30
+},
+{
+"date": "20230601",
+"dateHour": "2023060120",
+"touchCnt": 25
+},
+{
+"date": "20230601",
+"dateHour": "2023060121",
+"touchCnt": 29
+},
+{
+"date": "20230601",
+"dateHour": "2023060122",
+"touchCnt": 28
+},
+{
+"date": "20230601",
+"dateHour": "2023060123",
+"touchCnt": 23
+},
+{
+"date": "20230602",
+"dateHour": "2023060208",
+"touchCnt": 12
+},
+{
+"date": "20230602",
+"dateHour": "2023060209",
+"touchCnt": 21
+},
+{
+"date": "20230602",
+"dateHour": "2023060210",
+"touchCnt": 22
+},
+{
+"date": "20230602",
+"dateHour": "2023060211",
+"touchCnt": 20
+},
+{
+"date": "20230602",
+"dateHour": "2023060212",
+"touchCnt": 23
+},
+{
+"date": "20230602",
+"dateHour": "2023060213",
+"touchCnt": 23
+},
+{
+"date": "20230602",
+"dateHour": "2023060214",
+"touchCnt": 27
+},
+{
+"date": "20230602",
+"dateHour": "2023060215",
+"touchCnt": 27
+},
+{
+"date": "20230602",
+"dateHour": "2023060216",
+"touchCnt": 26
+},
+{
+"date": "20230602",
+"dateHour": "2023060217",
+"touchCnt": 32
+},
+{
+"date": "20230602",
+"dateHour": "2023060218",
+"touchCnt": 34
+},
+{
+"date": "20230602",
+"dateHour": "2023060219",
+"touchCnt": 37
+},
+{
+"date": "20230602",
+"dateHour": "2023060220",
+"touchCnt": 40
+},
+{
+"date": "20230602",
+"dateHour": "2023060221",
+"touchCnt": 41
+},
+{
+"date": "20230602",
+"dateHour": "2023060222",
+"touchCnt": 43
+},
+{
+"date": "20230602",
+"dateHour": "2023060223",
+"touchCnt": 34
+},
+{
+"date": "20230603",
+"dateHour": "2023060308",
+"touchCnt": 13
+},
+{
+"date": "20230603",
+"dateHour": "2023060309",
+"touchCnt": 25
+},
+{
+"date": "20230603",
+"dateHour": "2023060310",
+"touchCnt": 30
+},
+{
+"date": "20230603",
+"dateHour": "2023060311",
+"touchCnt": 25
+},
+{
+"date": "20230603",
+"dateHour": "2023060312",
+"touchCnt": 23
+},
+{
+"date": "20230603",
+"dateHour": "2023060313",
+"touchCnt": 22
+},
+{
+"date": "20230603",
+"dateHour": "2023060314",
+"touchCnt": 25
+},
+{
+"date": "20230603",
+"dateHour": "2023060315",
+"touchCnt": 28
+},
+{
+"date": "20230603",
+"dateHour": "2023060316",
+"touchCnt": 31
+},
+{
+"date": "20230603",
+"dateHour": "2023060317",
+"touchCnt": 28
+},
+{
+"date": "20230603",
+"dateHour": "2023060318",
+"touchCnt": 29
+},
+{
+"date": "20230603",
+"dateHour": "2023060319",
+"touchCnt": 30
+},
+{
+"date": "20230603",
+"dateHour": "2023060320",
+"touchCnt": 34
+},
+{
+"date": "20230603",
+"dateHour": "2023060321",
+"touchCnt": 46
+},
+{
+"date": "20230603",
+"dateHour": "2023060322",
+"touchCnt": 49
+},
+{
+"date": "20230603",
+"dateHour": "2023060323",
+"touchCnt": 36
+},
+{
+"date": "20230604",
+"dateHour": "2023060408",
+"touchCnt": 11
+},
+{
+"date": "20230604",
+"dateHour": "2023060409",
+"touchCnt": 25
+},
+{
+"date": "20230604",
+"dateHour": "2023060410",
+"touchCnt": 23
+},
+{
+"date": "20230604",
+"dateHour": "2023060411",
+"touchCnt": 19
+},
+{
+"date": "20230604",
+"dateHour": "2023060412",
+"touchCnt": 22
+},
+{
+"date": "20230604",
+"dateHour": "2023060413",
+"touchCnt": 20
+},
+{
+"date": "20230604",
+"dateHour": "2023060414",
+"touchCnt": 18
+},
+{
+"date": "20230604",
+"dateHour": "2023060415",
+"touchCnt": 21
+},
+{
+"date": "20230604",
+"dateHour": "2023060416",
+"touchCnt": 22
+},
+{
+"date": "20230604",
+"dateHour": "2023060417",
+"touchCnt": 23
+},
+{
+"date": "20230604",
+"dateHour": "2023060418",
+"touchCnt": 24
+},
+{
+"date": "20230604",
+"dateHour": "2023060419",
+"touchCnt": 25
+},
+{
+"date": "20230604",
+"dateHour": "2023060420",
+"touchCnt": 22
+},
+{
+"date": "20230604",
+"dateHour": "2023060421",
+"touchCnt": 25
+},
+{
+"date": "20230604",
+"dateHour": "2023060422",
+"touchCnt": 26
+},
+{
+"date": "20230604",
+"dateHour": "2023060423",
+"touchCnt": 23
+}
+]
