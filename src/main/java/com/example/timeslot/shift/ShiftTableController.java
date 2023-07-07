@@ -1,5 +1,7 @@
 package com.example.timeslot.shift;
 
+import java.io.File;
+import java.io.IOException;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
@@ -14,6 +16,9 @@ import java.util.UUID;
 import java.util.concurrent.ExecutionException;
 import java.util.stream.Collectors;
 
+import cn.hutool.core.io.FileUtil;
+import cn.hutool.json.JSONUtil;
+import cn.hutool.json.ObjectMapper;
 import com.example.timeslot.shift.enums.ShiftTypeEnum;
 import com.example.timeslot.shift.model.Servicer;
 import com.example.timeslot.shift.model.Shift;
@@ -44,8 +49,9 @@ public class ShiftTableController {
         ShiftTable timeTable = Generator.generateData();
         UUID problemId = UUID.randomUUID();
         // Submit the problem to start solving
-        SolverJob<ShiftTable, UUID> solverJob = solverManager.solveAndListen(problemId,
+        solverManager.solveAndListen(problemId,
             s -> Generator.generateData(), this::save);
+
         //ShiftTable solution;
         //long start = System.currentTimeMillis();
         //System.out.println("startTime:"+new Date(start));
@@ -64,7 +70,7 @@ public class ShiftTableController {
 
     }
 
-    private void save(ShiftTable solution){
+    private Map<Servicer, List<Shift>> save(ShiftTable solution){
         LocalDate day = LocalDate.of(2023, 5, 29);
         List<LocalDate> days = Arrays.asList(day, day.plusDays(1), day.plusDays(2), day.plusDays(3),
             day.plusDays(4), day.plusDays(5), day.plusDays(6));
@@ -98,7 +104,8 @@ public class ShiftTableController {
             res = res.stream().sorted(Comparator.comparing(Shift::getWorksetDate)).collect(Collectors.toList());
             collect.put(servicer,res);
         }
-
+        Generator.output(collect,"output.json");
+        return collect;
     }
 
 }

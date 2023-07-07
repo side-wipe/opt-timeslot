@@ -140,15 +140,17 @@ public class ShiftConstraintProvider implements ConstraintProvider {
             .filter((dateHour, cph,timePeriodForecast) ->
             {
                 Long touchs = timePeriodForecast == null ? 0L : timePeriodForecast.getTouchCnt();
-                BigDecimal most = BigDecimal.valueOf(touchs).multiply(new BigDecimal("1.1"));
+                BigDecimal most = BigDecimal.valueOf(touchs).multiply(new BigDecimal("1.3"));
                 BigDecimal least = BigDecimal.valueOf(touchs).multiply(new BigDecimal("0.9"));
                 return cph.compareTo(least) < 0 || cph.compareTo(most) > 0;
             })
             .penalizeConfigurable(ShiftConstraintPenalizeConfiguration.DATUM_PICKUP_RATE_OF_HOUR, (dateHour, cph,timePeriodForecast) ->
             {
                 Long touchs = timePeriodForecast == null ? 0L : timePeriodForecast.getTouchCnt();
-                BigDecimal touch = new BigDecimal(touchs);
-                return touch.subtract(cph).abs().intValue();
+                BigDecimal most = BigDecimal.valueOf(touchs).multiply(new BigDecimal("1.3"));
+                BigDecimal least = BigDecimal.valueOf(touchs).multiply(new BigDecimal("0.92"));
+                return cph.compareTo(least) < 0 ?
+                    cph.subtract(least).abs().intValue() : cph.subtract(most).abs().intValue();
             });
 
     }

@@ -34,9 +34,9 @@ public class OptaPlannerConfig {
         // 配置搜索算法
         TerminationConfig terminationConfig = new TerminationConfig();
         terminationConfig.setBestScoreFeasible(true);
-        terminationConfig.setUnimprovedMinutesSpentLimit(20L);
-        terminationConfig.setBestScoreLimit("0hard/*soft");
-        terminationConfig.setMinutesSpentLimit(60L);
+        terminationConfig.setUnimprovedMinutesSpentLimit(12L);
+        //terminationConfig.setBestScoreLimit("0hard/*soft");
+        terminationConfig.setMinutesSpentLimit(30L);
         solverConfig.setTerminationConfig(terminationConfig);
 
         LocalSearchPhaseConfig localSearchPhaseConfig = new LocalSearchPhaseConfig();
